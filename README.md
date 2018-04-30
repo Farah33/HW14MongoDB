@@ -1,7 +1,6 @@
 ABOUT
 
 
-
 This website will give you the  latest DAILY KOS a conservative website, which they call it "White HHouse Lies"
 
 PURPOSE
