@@ -1,0 +1,32 @@
+{
+  "name": "hw14mongod",
+  "version": "1.0.0",
+  "description": "ABOUT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Farah33/hw14mongoD.git"
+  },
+  "author": "khadija",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Farah33/hw14mongoD/issues"
+  },
+  "homepage": "https://github.com/Farah33/hw14mongoD#readme",
+  "dependencies": {
+    "articles": "^0.2.2",
+    "body-parser": "^1.18.2",
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "jquery": "^3.3.1",
+    "mongoose": "^5.0.17",
+    "morgan": "^1.9.0",
+    "notes": "0.0.4",
+    "request": "^2.85.0",
+    "routes": "^2.1.0"
+  }
+}
