@@ -1,26 +1,20 @@
-# ABOUT
+# About
+GEt the latest NYT News, is website scrapes news articles from the NYT site and allows users to write notes.
 
+# Motivation
+Project demonstrating the use of Mongo DB and Mongoose
 
-Mongo-Scrapper
-A web-scraping app developed using
+# Technologies Used
+HTML, CSS, Bootstrap, Node.js, Express.js, Handlebars.js, Mongo DB, Mongoose, Cheerio
 
-# Purpose
-
-The application will let the user scrape news articles from New York Times website. 
-When the user clicks on Scrape Article button a certain amount of articles will get displayed as a card 
-Summary and byline if it's available from New York Times on the web page.another cool feature is that,
-The user can save the article by clicking on Save Article button.
-The saved article can be viewed by clicking on Saved Article link 
-
+License
+MIT License
 # Heroku Link
 https://limitless-savannah-77730.herokuapp.com/
 
 # TECHNOLOGY USE
-
-
 HTML, CSS, HANDLEBARS, EXPRESSJS, JAVASCRIPT, MONGO, MONGOOSE, CHEERIO, NODE, AND MATERIALIZE
 
 # LICENSE
-
-
-MT
+MT License
+ 
